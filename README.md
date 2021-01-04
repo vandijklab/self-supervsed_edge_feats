@@ -1,6 +1,6 @@
-# self-supervised_edge_feats
+## self-supervised_edge_feats
 
-Code and data for Sehanobish A*, Ravindra NG*, van Dijk D. "Gaining insight into SARS-CoV-2 Infection and COVID-19 Severity using Self-supervised Edge Features and Graph Neural Networks." To appear at AAAI' 21. * Co-first
+Code and data for Sehanobish A*, Ravindra NG*, van Dijk D. "Gaining insight into SARS-CoV-2 Infection and COVID-19 Severity using Self-supervised Edge Features and Graph Neural Networks." To appear at AAAI' 21. * Co-first authors
 
 ### Summary
 
@@ -8,7 +8,12 @@ A molecular and cellular understanding of how SARS-CoV-2 variably infects and ca
 
 
 
+
 ----
+
+### Data availability
+
+
 ### Citation
 * Pre-print: https://arxiv.org/abs/2006.12971
 ``` 
